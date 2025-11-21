@@ -16,7 +16,6 @@ const GTEestiProText = localFont({
   ],
 })
 
-
 export default function RootLayout({ children, }: Readonly<{
   children: React.ReactNode;
 }>) {
